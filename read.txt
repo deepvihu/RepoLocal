@@ -3,4 +3,4 @@ Read me file contains the data or intro
 Created for jenkins demo
 
 Download for Windows
-Click here to download the latest (2.44.0) 64-bit version of Git for Windows. This is the most recent maintained build. It was released about 1 month ago, on 2024-02-23.
+Click here to download the latest (2.44.0) 64-bit version of Git for Windows. This 

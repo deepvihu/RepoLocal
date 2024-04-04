@@ -2,5 +2,3 @@ This is a sample file
 Read me file contains the data or intro
 Created for jenkins demo
 
-Download for Windows
-Click here to download the latest (2.44.0) 64-bit version of Git 
